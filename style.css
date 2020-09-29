@@ -1,0 +1,16 @@
+body{
+   text-align: center;
+}
+ul{
+    text-align: right;
+    font-size: 40px;
+}
+#menu{
+ color: red;
+}
+#gold_pizza{
+    color: gold;
+}
+#rot{
+    color: burlywood;
+}
